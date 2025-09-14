@@ -36,7 +36,7 @@ cd py_wininfo
 1. Jalankan script:
 
 ```bash
-python info.py
+python wininfo.py
 ```
 
 2. Pilih menu yang tersedia:
