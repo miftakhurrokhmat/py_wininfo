@@ -25,7 +25,7 @@ Semua informasi akan **ditampilkan di layar** dan **disimpan ke file** `laporan_
 1. Clone repository:
 
 ```bash
-git clone https://github.com/username/py_wininfo.git
+git clone https://github.com/miftakhurrokhmat/py_wininfo.git
 cd py_wininfo
 ```
 2. Tidak ada dependencies tambahan yang diperlukan.
