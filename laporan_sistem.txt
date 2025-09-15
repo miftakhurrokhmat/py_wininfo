@@ -1,0 +1,59 @@
+
+=== INFORMASI SISTEM ===
+OS Name: Windows 10
+OS Version: 10.0.26100
+User saat ini: user
+Daftar user yang ada: Administrator, db2admin, DefaultAccount, Guest, WDAGUtilityAccount
+
+
+=== INFORMASI PROCESSOR ===
+Name: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+Cores: 4
+Logical Processors: 8
+Load Percentage: 5%
+
+
+=== INFORMASI RAM ===
+Total RAM: 8026 MB
+Terpakai: 6815 MB (84.91%)
+
+=== SLOT RAM TERPASANG ===
+Slot: BANK 0 - Merk: Samsung - Kapasitas: 4 GB
+Slot: BANK 2 - Merk: Samsung - Kapasitas: 4 GB
+
+
+=== INFO DRIVE & DISK ===
+Drive  Total(GB)  Free(GB)   Used(GB)   Disk / Merk          Tipe         Serial
+----------------------------------------------------------------------------------------------------
+C:         113.94      11.33     102.62 512GB                NVMe SSD     0000_0000_0000_0000_0000_0100_0000_0000.
+E:         361.33      11.02     350.30 512GB                NVMe SSD     0000_0000_0000_0000_0000_0100_0000_0000.
+----------------------------------------------------------------------------------------------------
+Total Kapasitas User (semua drive letter): 475.27 GB
+Total Kapasitas Disk Fisik: 476.94 GB
+
+
+=== INFORMASI VGA ===
+Intel(R) UHD Graphics 620
+
+
+=== PENGECEKAN APLIKASI POPULER ===
+ZIP / RAR: WinRAR, 7-Zip
+PDF Reader: PDFsam Basic
+Microsoft Office: Word, Excel, PowerPoint, OneNote, Outlook, ---- -------, Microsoft.Office.OneNote 16001.14326.22594.0, Microsoft.OfficePushNotificationUtility 16.0.19127.20222, Microsoft.Office.ActionsServer 16.0.19127.20222
+
+=== INFORMASI MOTHERBOARD ===
+Merk: LENOVO - Tipe: 20LES1V51J - Serial: W1KS85T109P
+
+
+=== PRINTERS INSTALLED ===
+Printer: OneNote for Windows 10 - Default:  - Status: Unknown
+Printer: OneNote (Desktop) - Default:  - Status: Unknown
+Printer: Microsoft XPS Document Writer - Default:  - Status: Unknown
+Printer: Microsoft Print to PDF - Default:  - Status: Unknown
+Printer: HP Smart Printing - Default:  - Status: Unknown
+Printer: HP DeskJet Ink Advantage 2800 All-in-One Printer series [HPB3A6EC] - Default:  - Status: Unknown
+Printer: HP DeskJet 2800 series - Default:  - Status: Unknown
+Printer: Fax - Default:  - Status: Unknown
+Printer: EPSON L3110 Series - Default:  - Status: Unknown
+Printer: AnyDesk Printer - Default:  - Status: Unknown
+
